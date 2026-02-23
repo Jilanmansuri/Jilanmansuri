@@ -43,6 +43,16 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jilanmansuri&show_icons=true&theme=radical" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jilanmansuri&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilanmansuri&layout=compact&theme=radical" />
+</p>
+
+
 ---
 
 ## 📫 Connect With Me  
