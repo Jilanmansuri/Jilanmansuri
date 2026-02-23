@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Jilan;Computer+Engineering+Student;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Jilan;Computer+Engineering+Student;Aspiring+Full+Stack+Developer" />
 </h1>
 
 <p align="center">
@@ -11,28 +11,28 @@
 ## 🙋‍♂️ About Me  
 
 - 🎓 Computer Engineering Student  
-- 💡 Interested in Web Development & Backend  
+- 💡 Interested in Web Development & Backend Development  
 - 🌱 Currently learning **React, Node.js, MongoDB**  
-- 🧠 Strong focus on fundamentals & practice  
-- 🤝 Open to learning, collaboration & internships  
+- 🧠 Strong focus on fundamentals & real-world practice  
+- 🤝 Open to collaboration, internships & learning opportunities  
 
 ---
 
 ## 🛠️ Tech Stack  
 
+### 🚀 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
 ---
