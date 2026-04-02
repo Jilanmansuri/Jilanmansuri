@@ -50,7 +50,7 @@ A smart security platform designed to detect scams and fraudulent activities usi
 **Tech Stack:**  
 `AI` `Machine Learning` `JavaScript` `Node.js`
 
-🔗 [View Project →](#)
+🔗 [View Project →](https://github.com/Jilanmansuri/scamshield)
 
 </td>
 
@@ -64,7 +64,7 @@ An intelligent learning platform that helps users upskill with personalized AI-d
 **Tech Stack:**  
 `React` `AI APIs` `Node.js`
 
-🔗 [View Project →](#)
+🔗 [View Project →](https://github.com/Jilanmansuri/SkillForge-AI)
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ A marketplace connecting freelancers and clients with smooth project management,
 **Tech Stack:**  
 `React` `Node.js` `MongoDB`
 
-🔗 [View Project →](#)
+🔗 [View Project →](https://github.com/Jilanmansuri/FreelanceX)
 
 </td>
 
@@ -94,7 +94,7 @@ A feature-complete LMS with course management, user dashboards, and responsive U
 **Tech Stack:**  
 `React` `Tailwind CSS` `JavaScript`
 
-🔗 [View Project →](#)
+🔗 [View Project →](https://github.com/Jilanmansuri/lms-codinggita)
 
 </td>
 </tr>
