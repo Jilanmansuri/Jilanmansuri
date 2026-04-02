@@ -36,65 +36,94 @@
 </p>
 
 ---
-## 🚀 Flagship Projects
+## 🚀 Flagship Projects  
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ ScamShield  
-**AI-Based Fraud Detection System**
+<h3>🛡️ ScamShield</h3>
+<p><b>AI-Based Fraud Detection System</b></p>
 
-A smart security platform designed to detect scams and fraudulent activities using intelligent patterns and real-time monitoring.
+<p>
+A smart security platform that detects scams using intelligent patterns and real-time monitoring.
+</p>
 
-**Tech Stack:**  
-`AI` `Machine Learning` `JavaScript` `Node.js`
+<p>
+<img src="https://img.shields.io/badge/AI-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript"/>
+</p>
 
-🔗 [View Project →](https://github.com/Jilanmansuri/scamshield)
+<a href="https://github.com/Jilanmansuri/scamshield">
+  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 SkillForge AI  
-**AI-Powered Learning Assistant**
+<h3>🧠 SkillForge AI</h3>
+<p><b>AI-Powered Learning Assistant</b></p>
 
-An intelligent learning platform that helps users upskill with personalized AI-driven recommendations and adaptive learning paths.
+<p>
+Personalized AI learning platform with adaptive paths and smart recommendations.
+</p>
 
-**Tech Stack:**  
-`React` `AI APIs` `Node.js`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/AI%20APIs-purple?style=flat-square"/>
+</p>
 
-🔗 [View Project →](https://github.com/Jilanmansuri/SkillForge-AI)
+<a href="https://github.com/Jilanmansuri/SkillForge-AI">
+  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 FreelanceX  
-**Freelancing Platform**
+<h3>💼 FreelanceX</h3>
+<p><b>Freelancing Platform</b></p>
 
-A marketplace connecting freelancers and clients with smooth project management, communication, and hiring workflows.
+<p>
+A marketplace connecting freelancers and clients with smooth hiring & project workflows.
+</p>
 
-**Tech Stack:**  
-`React` `Node.js` `MongoDB`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+</p>
 
-🔗 [View Project →](https://github.com/Jilanmansuri/FreelanceX)
+<a href="https://github.com/Jilanmansuri/FreelanceX">
+  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 LMS CodingGita  
-**Learning Management System**
+<h3>🎓 LMS CodingGita</h3>
+<p><b>Learning Management System</b></p>
 
-A feature-complete LMS with course management, user dashboards, and responsive UI — inspired by real EdTech systems.
+<p>
+Full LMS with dashboards, course management, and responsive UI inspired by real EdTech apps.
+</p>
 
-**Tech Stack:**  
-`React` `Tailwind CSS` `JavaScript`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript"/>
+</p>
 
-🔗 [View Project →](https://github.com/Jilanmansuri/lms-codinggita)
+<a href="https://github.com/Jilanmansuri/lms-codinggita">
+  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
