@@ -169,19 +169,13 @@ Full LMS with dashboards, course management, and responsive UI inspired by real 
   <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
-<a href="https://x.com/jilan_24">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
-</a>
-
-<a href="https://www.sololearn.com/en/profile/35609759">
-  <img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn"/>
-</a>
 
 <a href="https://www.youtube.com/@JilanMansuri-b3c">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
+
 ---
 
 <p align="center">
