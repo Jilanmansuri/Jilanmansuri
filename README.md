@@ -128,7 +128,9 @@ Full LMS with dashboards, course management, and responsive UI inspired by real 
 </td>
 </tr>
 </table>
+
 ---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
