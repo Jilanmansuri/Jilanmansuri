@@ -36,7 +36,70 @@
 </p>
 
 ---
+## 🚀 Flagship Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ ScamShield  
+**AI-Based Fraud Detection System**
+
+A smart security platform designed to detect scams and fraudulent activities using intelligent patterns and real-time monitoring.
+
+**Tech Stack:**  
+`AI` `Machine Learning` `JavaScript` `Node.js`
+
+🔗 [View Project →](#)
+
+</td>
+
+<td width="50%">
+
+### 🧠 SkillForge AI  
+**AI-Powered Learning Assistant**
+
+An intelligent learning platform that helps users upskill with personalized AI-driven recommendations and adaptive learning paths.
+
+**Tech Stack:**  
+`React` `AI APIs` `Node.js`
+
+🔗 [View Project →](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 FreelanceX  
+**Freelancing Platform**
+
+A marketplace connecting freelancers and clients with smooth project management, communication, and hiring workflows.
+
+**Tech Stack:**  
+`React` `Node.js` `MongoDB`
+
+🔗 [View Project →](#)
+
+</td>
+
+<td width="50%">
+
+### 🎓 LMS CodingGita  
+**Learning Management System**
+
+A feature-complete LMS with course management, user dashboards, and responsive UI — inspired by real EdTech systems.
+
+**Tech Stack:**  
+`React` `Tailwind CSS` `JavaScript`
+
+🔗 [View Project →](#)
+
+</td>
+</tr>
+</table>
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
