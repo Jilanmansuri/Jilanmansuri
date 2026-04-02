@@ -1,10 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jilan%20Mansuri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Web,%20One%20Commit%20at%20a%20Time&descAlignY=60&descSize=18" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Jilan;Computer+Engineering+Student;Aspiring+Full+Stack+Developer" />
 </h1>
 
-<p align="center">
-  💻 Web Developer | 🌱 Learning Every Day | 🚀 Improving Skills
-</p>
+
 
 ---
 
