@@ -145,11 +145,43 @@ Full LMS with dashboards, course management, and responsive UI inspired by real 
 
 ---
 
-## 📫 Connect With Me  
+## 🌐 Connect With Me  
 
-- 💼 GitHub: https://github.com/Jilanmansuri  
-- 📧 Email: jilan2410@gmail.com  
+<p align="center">
 
+<a href="https://github.com/Jilanmansuri">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:jilan2410@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jilan-mansuri-235b38392/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Jilan2410/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://jilan-portfolio-24.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://x.com/jilan_24">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="https://www.sololearn.com/en/profile/35609759">
+  <img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn"/>
+</a>
+
+<a href="https://www.youtube.com/@JilanMansuri-b3c">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 <p align="center">
