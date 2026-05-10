@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://jilan-portfolio-24.vercel.app/">
+<a href="https://jilan-mansuri-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
