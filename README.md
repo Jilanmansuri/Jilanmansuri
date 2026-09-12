@@ -12,83 +12,85 @@
 
 ---
 
-## 🙋‍♂️ About Me  
+## 🙋‍♂️ About Me
 
-- 🎓 Computer Engineering Student  
-- 💡 Interested in Web Development & Backend Development  
-- 🌱 Currently learning **React, Node.js, MongoDB**  
-- 🧠 Strong focus on fundamentals & real-world practice  
-- 🤝 Open to collaboration, internships & learning opportunities  
+- 🎓 Computer Engineering Student
+- 💡 Interested in Web Development & Backend Development
+- 🌱 Currently learning **React, Node.js, MongoDB**
+- 🧠 Strong focus on fundamentals & real-world practice
+- 🤝 Open to collaboration, internships & learning opportunities
 
 ---
 
-
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
 
-
 <a href="mailto:jilan2410@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/jilan-mansuri-235b38392/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/Jilan2410/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://jilan-mansuri-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-
 <a href="https://www.youtube.com/@JilanMansuri-b3c">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### 🚀 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙ Backend
+### ⚙️ Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jilanmansuri&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jilanmansuri&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jilanmansuri&theme=tokyonight" />
+</p>
+
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jilanmansuri&theme=tokyo-night"/>
-</p>
+## 🚀 What I'm Working On
+
+- 🔨 Building real-world applications
+- 🌐 Developing full-stack web applications
+- ⚙️ Working with REST APIs & backend systems
+- 🧠 Practicing Data Structures & Algorithms
+- 📚 Continuously improving my development skills
 
 ---
 
@@ -96,4 +98,6 @@
   ⭐ Thanks for visiting my profile!
 </p>
 
-
+<p align="center">
+  <i>Keep coding. Keep building. Keep learning. 🚀</i>
+</p>
